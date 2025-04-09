@@ -1,0 +1,7 @@
+- [ ] Learn Django 
+- [ ] Learn boostrap
+- [ ] Create Diagram sequence
+- [ ] Learn github advanced
+- [ ] Create tables of the days and week of work on 
+- [ ] Working for power point 
+- [ ] 

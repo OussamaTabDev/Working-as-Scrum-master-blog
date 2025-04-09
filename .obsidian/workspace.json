@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first Sprints/readme.md",
+                "file": "Agile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Agile"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "33d8c27bcb8b65d1",
   "lastOpenFiles": [
-    "readme.md",
+    "first Sprints/My roles.md",
+    "Agile.md",
     "first Sprints/readme.md",
+    "readme.md",
     "first Sprints"
   ]
 }
